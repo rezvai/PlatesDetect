@@ -1,0 +1,11 @@
+# Пути до выборок
+train: all_ctypes_data\train
+val: all_ctypes_data\val
+test: all_ctypes_data\test
+
+# Количество классов
+nc: 1
+
+# Имена классов
+names: ['number']
+
